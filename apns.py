@@ -1,5 +1,5 @@
-# PyAPNs was developed by Simon Whitaker <simon@goosoftware.co.uk>
-# Source available at https://github.com/simonwhitaker/PyAPNs
+# PyAPNs was originally developed by Simon Whitaker <simon@goosoftware.co.uk>, modified further by others
+# Source available at https://github.com/ActiDoo/PyAPNs
 #
 # PyAPNs is distributed under the terms of the MIT license.
 #

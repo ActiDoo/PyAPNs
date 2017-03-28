@@ -1,14 +1,14 @@
 from distutils.core import setup
 
 setup(
-    author = 'David Jacobs',
-    author_email = 'david@29.io',
-    description = 'A python library for interacting with the Apple Push Notification Service',
-    download_url = 'https://github.com/djacobs/PyAPNs',
+    author = 'ActiDoo GmbH',
+    author_email = 'info@actidoo.com',
+    description = 'Temporary Fork of PyAPNs to work with Python 3',
+    download_url = 'https://github.com/ActiDoo/PyAPNs',
     license = 'unlicense.org',
-    name = 'apns',
+    name = 'tapns3',
     py_modules = ['apns'],
     scripts = ['apns-send'],
-    url = 'http://29.io/',
-    version = '2.0.2',
+    url = 'https://github.com/ActiDoo/PyAPNs',
+    version = '3.0.0',
 )
